@@ -2216,7 +2216,7 @@ img.vimg:hover {
   margin: 1.5625em 0;
   padding: 1.4rem;
   overflow: hidden;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
   page-break-inside: avoid;
   border-left: .9rem solid #42b983;
   border-radius: .9rem;
@@ -2228,13 +2228,13 @@ p.admonition-title {
   position: relative;
   margin: -0.3rem -2.4rem 0.3em -2.4rem !important;
   padding: 1.2rem 0.6rem 1.2rem 2.5rem;
-  font-weight 700;
+  font-weight 99;
   background-color: rgba(66, 185, 131, 0.1);
 }
 .admonition-title::before {
   position: absolute;
   top: .9rem;
-  left: 1.6rem;
+  left: 1.5rem;
   width: 14px;
   height: 14px;
   background-color: #42b983;
