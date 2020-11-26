@@ -2186,7 +2186,7 @@ p.admonition-title {
   position: relative;
   margin: -0.3rem -2.4rem 0.3em -2.4rem !important;
   padding: 1.2rem 0.6rem 1.2rem 2.5rem;
-  font-weight bold;
+  font-weight: bold;
   background-color: rgba(66, 185, 131, 0.1);
 }
 .admonition-title::before {
