@@ -173,3 +173,7 @@ $(document).find('img[data-original]').each(function(){
     // 初始化加载 tooltipped.
     $('.tooltipped').tooltip();
 });
+
+$(document).find('img[data-original]').each(function(){
+    $(this).parent().attr("href", $(this).attr("data-original"));
+});
